@@ -1,0 +1,11 @@
+title: "Bussière Respire"
+description: "Comprendre notre ville, imaginer son avenir."
+lang: fr
+baseurl: ""
+url: ""
+markdown: kramdown
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - .github/
