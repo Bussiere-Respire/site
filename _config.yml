@@ -1,8 +1,8 @@
 title: "Bussière Respire"
 description: "Comprendre notre ville, imaginer son avenir."
 lang: fr
-baseurl: ""
-url: ""
+baseurl: "/site"
+url: "https://bussiere-respire.github.io"
 markdown: kramdown
 exclude:
   - README.md
